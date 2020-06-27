@@ -9,7 +9,8 @@ No | Usage | Comments
 3 | [Intro to Convolution - Compress Images](#part-three) | :heavy_check_mark:
 4 | [Computer Vision - Classify Fashion with CNN](#part-four) | :heavy_check_mark:
 5 | [Computer Vision - Horse or Human?](#part-five) | 
-6 | [Computer Vision - Cat or Dog?](#part-five) | 
+6 | [Computer Vision - Cat or Dog?](#part-six) | 
+7 | [Movie Review - Binary](#part-seven) | 
 
 ### Part one
 
@@ -34,3 +35,7 @@ Horse or Human - [Small Dataset](https://github.com/bmnidhin/tfnotes/blob/master
 ### Part Six
 
 Cat or Dog [Larrge Dataset](https://github.com/bmnidhin/tfnotes/blob/master/cat_or_dog_large_dataset.ipynb)
+
+### Part Six
+
+IMDB dataset - Positive or Negative Movie review [Colab](https://colab.research.google.com/drive/10l31e09Vy5WIXEjTMZ_GGp54Ue2N6cN8#scrollTo=BaemU_9h6Oah)
