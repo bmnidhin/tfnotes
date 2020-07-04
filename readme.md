@@ -26,3 +26,16 @@ No | Usage | Comments
 5 | [Computer Vision - Horse or Human?](#) | 
 6 | [Computer Vision - Cat or Dog?](#) | 
 7 | [Movie Review - Binary](#) | 
+
+
+### Tensorflow Lite
+
+No | Usage | Comments
+------------ | ------------- |------------
+1 | [TFLite in Pi](#) | 
+
+### Ml in Production
+No | Usage | Comments
+------------ | ------------- |------------
+1 | [Face Detection With Teachable Machine](https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py) | 
+2 | [ML With Django - House Loan](#) | 
