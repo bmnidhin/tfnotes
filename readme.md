@@ -34,7 +34,7 @@ No | Usage | Comments
 ------------ | ------------- |------------
 1 | [TFLite in Pi](#) | 
 
-### Ml in Production
+### ML in Production
 No | Usage | Comments
 ------------ | ------------- |------------
 1 | [Face Detection With Teachable Machine](https://matplotlib.org/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py) | 
